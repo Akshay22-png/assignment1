@@ -1,0 +1,38 @@
+Q1.
+Python is an interpreted,general purpose,high level language.It was created by guido van rossum and it was 1st released in 1991.Python's design philosophyemphasizes code redability with its notable use of significant whitespace.
+
+Q2.
+Python provides lots of features:-
+1.simple.
+2.easy to learn.
+3.free and open source.
+4.interpreted language.
+5.extensible.
+6.object oriented language.
+7.cross platform language.
+8.large standard library.
+
+Q3.
+Pyhton is called an intetrpreted language because it goes through an interpreter,which turns the code you write into a language understood by your computers processor.
+
+Q4.
+Memory management in python involves a private heap containing all Python objectsand data structures.The management of this private heap is ensured internally by the python memory manager.
+
+Q5
+PYTHON PATH is an environment variable which you can set to add additional directories where python will look for modules and packages.For most of the installations,you should not set these variables since they are not needed for PYTHON to run.Pyhton knows where to find its standard library.
+
+Q6.
+Generators are used to create iterators,but witha a different approach.Generators are simple functions which return an iterable set of items,one at a time,in a specialway.the generator function can generate as many values as it wants,yielding each one in its turn.
+
+Q7.
+To find the directory in python you currently in,use the getcwd() method. Cwd is for current working directory in python.This returns the path of the current ptyhon directory as a string in pyhton
+
+Q8.
+Yes python is case sensitive language.
+exmaple: Now is not same as now
+
+Q9.
+Yes pyhton has oops concept and it is one of the key features of pyhton.
+
+Q10.
+In python identifiers can be as long as we want.  But according to the PEP-8 rule the pyhton should contain only 79 characters.
